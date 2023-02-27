@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Casting_Rowland_Ethan/1.0.0": {
+        "runtime": {
+          "Casting_Rowland_Ethan.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Casting_Rowland_Ethan/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
